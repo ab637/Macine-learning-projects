@@ -1,0 +1,9 @@
+ 🛠️ Installation & Usage
+Requirements
+- Python 3.9+
+- Streamlit
+- NumPy
+- scikit-learn / pandas (for training model, if applicable)
+📦 Install dependencies
+bash
+pip install -r requirements.txt
